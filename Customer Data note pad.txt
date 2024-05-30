@@ -1,0 +1,32 @@
+Client,Contact,Phone Number,Sales Rep,Credit Limit,Contract Date
+Allermen Supplies Co.,Alex Lee,202-732-5085,S001,8000,12-Jun-11
+Johnson's Supplies,David Robertson,203-399-4830,S001,3000,13-Sep-17
+Beauty World,Aleena Woods,215-557-7781,S001,3500,22-May-00
+Gentlemen Outfitters,Ricky Decker,212-921-3827,S001,10000,9-Jan-18
+Wheelers,Cathy Tanner,617-925-1173,S001,5000,7-Apr-11
+Joe's Sweets,Tom Parks,912-465-7322,S002,1500,22-Mar-00
+Marty's Mart,Betty Wilder,804-338-1184,S002,7000,15-Dec-09
+Showcase Cosmetics,Duncan Bogg,804-986-9111,S002,1900,1-Dec-09
+Colours World,Jon Townsend,615-423-1779,S002,3000,9-Nov-09
+Sports & Leisure Supply House,Mike Beaulieu,504-354-3159,S002,4300,15-Oct-00
+Just for Fun Crafts Shop,Stanley Smith,217-559-8392,S003,4000,12-Nov-17
+Champion Gym Equipments,Linda Lee,312-888-8274,S003,8500,7-Jul-05
+Sweetly Scented Co.,Ken Walters,515-992-2137,S003,4200,25-Feb-08
+Books City,Phil Nelsom,216-433-1403,S003,3000,7-Oct-10
+Mega Books,Laura Samson,312-444-9553,S003,9800,30-Nov-14
+Great Campers,Gary Tan,406-435-1017,S004,1500,2-Dec-17
+Pure Fancy Supplies,Chris Long,503-662-0453,S004,2500,5-Aug-12
+The Big Outdoors,Tracy Stevens,208-625-9029,S004,1200,14-May-18
+Coastal Athletic Supply House,Lee Chin,213-777-4043,S005,10000,10-Sep-16
+Mega Land,Kiran Dev,210-267-4902,S005,5000,17-Aug-00
+Classic Cooks Co.,Harvey Cross,505-785-1717,S005,1500,23-Jun-11
+Tennis Joint,Alan Steel,415-457-4333,S005,9000,29-Jun-16
+Sports Connection,Doug O'Connor,713-691-7450,S005,6000,18-Apr-18
+Canadian Investment Ltd.,Catherine Turner,604-337-4921,S006,3000,10-Sep-17
+Sports Mall of Toronto,Sheila De Silva,416-523-3951,S006,2500,17-Jul-14
+Juegos Mundial,Pedro Martinez,52-78940382,S006,2000,29-May-00
+The Calgary Houseware Goods Co.,Don McInnes,604-936-7751,S006,3000,17-Mar-01
+El Mundo de Futbol,Guillermo Borbon,52-49034858,S006,1100,27-Jun-01
+Montreal Skate & Ski,Renee St. Clair,514-385-1213,S006,2700,13-Jul-00
+Juegos de Mexico,Jorge Arias,52-309058397,S006,1500,17-Nov-17
+Alvarez Equipaje de Juegos,Juan Gutierrez,52-59957583,S006,2000,19-Feb-01

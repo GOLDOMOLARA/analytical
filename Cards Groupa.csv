@@ -1,0 +1,210 @@
+Credit Card Transactions,,,,,
+,,,,,
+Date,Trans #,Department,Payment Type,Issuer,Amount
+2-Apr-18,SN-18345,Ladies,Visa,Chase Manhattan,111
+2-Apr-18,SN-18346,Furniture,Visa,VanCity Credit Union,65
+2-Apr-18,SN-18347,Men,MasterCard,Bank of Montreal,131
+2-Apr-18,SN-18348,Toys,MasterCard,Bank of Montreal,50
+3-Apr-18,SN-18349,Men,Visa,Lloyds Banking Group,163
+3-Apr-18,SN-18350,Housewares,Visa,Santandar of Scotland ,40
+4-Apr-18,SN-18351,Men,Visa,Toronto Dominion Bank,81
+4-Apr-18,SN-18352,Hardware,Debit,Bank of Montreal,65
+4-Apr-18,SN-18353,Ladies,Visa,Toronto Dominion Bank,149
+4-Apr-18,SN-18354,Ladies,Visa,CitiBank,70
+5-Apr-18,SN-18355,Ladies,Visa,VanCity Credit Union,69
+5-Apr-18,SN-18356,Housewares,Visa,Santandar of Scotland ,85
+6-Apr-18,SN-18357,Linens,Visa,ScotiaBank,105
+7-Apr-18,SN-18358,Housewares,MasterCard,Wells Fargo,87
+7-Apr-18,SN-18359,Toys,MasterCard,Wells Fargo,67
+8-Apr-18,SN-18360,Linens,Visa,Santandar,89
+8-Apr-18,SN-18361,Linens,Visa,Bank of America,15
+9-Apr-18,SN-18362,Appliances,Visa,Seattle FirstBank,52
+9-Apr-18,SN-18363,Toys,Amex,American Express,24
+9-Apr-18,SN-18364,Linens,Visa,Toronto Dominion Bank,155
+10-Apr-18,SN-18365,Food,Visa,CapitalOne,51
+11-Apr-18,SN-18366,Appliances,Debit,Bank of Montreal,2
+12-Apr-18,SN-18367,Linens,Visa,Seattle FirstBank,53
+12-Apr-18,SN-18368,Housewares,Debit,Bank of Montreal,182
+13-Apr-18,SN-18369,Furniture,Visa,CapitalOne,120
+13-Apr-18,SN-18370,Linens,Visa,Lloyds Banking Group,56
+13-Apr-18,SN-18371,Ladies,Visa,Bank of America,70
+14-Apr-18,SN-18372,Hardware,MasterCard,Wells Fargo,118
+14-Apr-18,SN-18373,Linens,Visa,Lloyds Banking Group,64
+14-Apr-18,SN-18374,Furniture,MasterCard,Wells Fargo,199
+14-Apr-18,SN-18375,Men,Visa,Toronto Dominion Bank,14
+15-Apr-18,SN-18376,Food,MasterCard,Bank of Montreal,171
+15-Apr-18,SN-18377,Appliances,Debit,Bank of Montreal,63
+16-Apr-18,SN-18378,Appliances,MasterCard,Wells Fargo,37
+16-Apr-18,SN-18379,Men,Visa,ScotiaBank,78
+18-Apr-18,SN-18380,Linens,Visa,Santandar of Scotland ,143
+19-Apr-18,SN-18381,Housewares,Visa,Toronto Dominion Bank,72
+19-Apr-18,SN-18382,Hardware,Visa,Lloyds Banking Group,148
+20-Apr-18,SN-18383,Ladies,Visa,CapitalOne,60
+20-Apr-18,SN-18384,Appliances,Debit,Bank of Montreal,10
+21-Apr-18,SN-18385,Food,MasterCard,Bank of Montreal,50
+22-Apr-18,SN-18386,Ladies,Visa,Seattle FirstBank,130
+22-Apr-18,SN-18387,Food,Visa,CitiBank,156
+23-Apr-18,SN-18388,Appliances,Visa,CitiBank,189
+23-Apr-18,SN-18389,Housewares,Visa,Seattle FirstBank,123
+23-Apr-18,SN-18390,Men,Debit,Bank of Montreal,31
+24-Apr-18,SN-18391,Linens,Visa,Bank of America,31
+24-Apr-18,SN-18392,Men,Visa,ScotiaBank,184
+24-Apr-18,SN-18393,Furniture,Visa,ScotiaBank,102
+25-Apr-18,SN-18394,Toys,Debit,Bank of Montreal,36
+25-Apr-18,SN-18395,Men,Debit,Bank of Montreal,65
+26-Apr-18,SN-18396,Appliances,Visa,Santandar of Scotland ,119
+26-Apr-18,SN-18397,Toys,Visa,Chase Manhattan,125
+27-Apr-18,SN-18398,Food,Visa,CapitalOne,85
+28-Apr-18,SN-18399,Furniture,Visa,Bank of America,186
+28-Apr-18,SN-18400,Ladies,Visa,Toronto Dominion Bank,114
+29-Apr-18,SN-18401,Ladies,Visa,Lloyds Banking Group,24
+29-Apr-18,SN-18402,Ladies,Visa,Toronto Dominion Bank,21
+29-Apr-18,SN-18403,Housewares,Visa,CitiBank,99
+29-Apr-18,SN-18404,Food,MasterCard,Wells Fargo,32
+30-Apr-18,SN-18405,Ladies,Visa,VanCity Credit Union,104
+30-Apr-18,SN-18406,Men,Visa,Lloyds Banking Group,145
+30-Apr-18,SN-18407,Appliances,Visa,Santandar of Scotland ,148
+1-May-18,SN-18408,Ladies,Visa,Lloyds Banking Group,101
+1-May-18,SN-18409,Hardware,Visa,CitiBank,150
+1-May-18,SN-18410,Ladies,Visa,Chase Manhattan,33
+2-May-18,SN-18411,Housewares,Visa,Lloyds Banking Group,68
+2-May-18,SN-18412,Ladies,Visa,Santandar of Scotland ,150
+2-May-18,SN-18413,Furniture,Visa,ScotiaBank,124
+2-May-18,SN-18414,Ladies,Visa,CitiBank,47
+3-May-18,SN-18415,Housewares,Visa,ScotiaBank,112
+3-May-18,SN-18416,Furniture,Debit,Bank of Montreal,169
+3-May-18,SN-18417,Ladies,MasterCard,Wells Fargo,137
+4-May-18,SN-18418,Men,Visa,CitiBank,29
+4-May-18,SN-18419,Appliances,Visa,Chase Manhattan,151
+4-May-18,SN-18420,Hardware,Visa,CitiBank,61
+4-May-18,SN-18421,Furniture,Visa,Seattle FirstBank,175
+6-May-18,SN-18422,Ladies,Visa,VanCity Credit Union,49
+8-May-18,SN-18423,Housewares,Visa,Santandar,11
+8-May-18,SN-18424,Ladies,MasterCard,Bank of Montreal,107
+8-May-18,SN-18425,Toys,MasterCard,Bank of Montreal,61
+8-May-18,SN-18426,Furniture,Debit,Bank of Montreal,6
+8-May-18,SN-18427,Housewares,Visa,ScotiaBank,113
+8-May-18,SN-18428,Hardware,Debit,Bank of Montreal,1
+9-May-18,SN-18429,Hardware,Visa,Toronto Dominion Bank,16
+9-May-18,SN-18430,Toys,Debit,Bank of Montreal,33
+11-May-18,SN-18431,Food,Visa,CitiBank,85
+11-May-18,SN-18432,Hardware,MasterCard,Bank of Montreal,144
+11-May-18,SN-18433,Food,Visa,Santandar,193
+11-May-18,SN-18434,Housewares,Visa,Santandar,121
+11-May-18,SN-18435,Hardware,Visa,VanCity Credit Union,108
+12-May-18,SN-18436,Appliances,MasterCard,Wells Fargo,144
+12-May-18,SN-18437,Appliances,Amex,American Express,101
+13-May-18,SN-18438,Furniture,Amex,American Express,159
+15-May-18,SN-18439,Ladies,Visa,Bank of America,176
+15-May-18,SN-18440,Food,MasterCard,Bank of Montreal,114
+15-May-18,SN-18441,Housewares,Visa,VanCity Credit Union,194
+16-May-18,SN-18442,Toys,Visa,Toronto Dominion Bank,29
+16-May-18,SN-18443,Hardware,Visa,Santandar of Scotland ,30
+17-May-18,SN-18444,Ladies,Visa,Santandar,54
+17-May-18,SN-18445,Hardware,Visa,Seattle FirstBank,48
+18-May-18,SN-18446,Furniture,Visa,CapitalOne,61
+19-May-18,SN-18447,Ladies,Visa,Toronto Dominion Bank,51
+19-May-18,SN-18448,Men,Amex,American Express,133
+20-May-18,SN-18449,Furniture,Visa,Seattle FirstBank,99
+20-May-18,SN-18450,Toys,Visa,VanCity Credit Union,22
+20-May-18,SN-18451,Appliances,Visa,CitiBank,171
+20-May-18,SN-18452,Furniture,Visa,ScotiaBank,104
+22-May-18,SN-18453,Ladies,Visa,VanCity Credit Union,172
+22-May-18,SN-18454,Men,Visa,VanCity Credit Union,167
+22-May-18,SN-18455,Hardware,Visa,Santandar of Scotland ,37
+22-May-18,SN-18456,Toys,Visa,CitiBank,102
+22-May-18,SN-18457,Linens,Debit,Bank of Montreal,10
+24-May-18,SN-18458,Toys,Visa,Toronto Dominion Bank,69
+25-May-18,SN-18459,Linens,Visa,Seattle FirstBank,65
+25-May-18,SN-18460,Ladies,Visa,ScotiaBank,193
+25-May-18,SN-18461,Ladies,Debit,Bank of Montreal,6
+25-May-18,SN-18462,Ladies,Visa,CitiBank,95
+26-May-18,SN-18463,Men,Debit,Bank of Montreal,9
+26-May-18,SN-18464,Appliances,Visa,CitiBank,189
+27-May-18,SN-18465,Men,Debit,Bank of Montreal,127
+27-May-18,SN-18466,Appliances,MasterCard,Bank of Montreal,119
+28-May-18,SN-18467,Ladies,Visa,Chase Manhattan,103
+28-May-18,SN-18468,Ladies,MasterCard,Wells Fargo,32
+28-May-18,SN-18469,Food,MasterCard,Bank of Montreal,190
+29-May-18,SN-18470,Men,Visa,VanCity Credit Union,108
+30-May-18,SN-18471,Linens,Visa,Lloyds Banking Group,68
+30-May-18,SN-18472,Housewares,Visa,Lloyds Banking Group,118
+31-May-18,SN-18473,Ladies,Visa,Santandar,106
+31-May-18,SN-18474,Ladies,Visa,Santandar,126
+31-May-18,SN-18475,Appliances,Debit,Bank of Montreal,10
+31-May-18,SN-18476,Hardware,Visa,CitiBank,169
+1-Jun-18,SN-18477,Housewares,Visa,CapitalOne,48
+2-Jun-18,SN-18478,Toys,Visa,Chase Manhattan,189
+2-Jun-18,SN-18479,Housewares,Amex,American Express,14
+3-Jun-18,SN-18480,Toys,Debit,Bank of Montreal,58
+3-Jun-18,SN-18481,Appliances,Visa,CapitalOne,106
+3-Jun-18,SN-18482,Appliances,Visa,VanCity Credit Union,98
+3-Jun-18,SN-18483,Appliances,Amex,American Express,168
+3-Jun-18,SN-18484,Food,Visa,ScotiaBank,56
+4-Jun-18,SN-18485,Furniture,Visa,Toronto Dominion Bank,63
+4-Jun-18,SN-18486,Housewares,MasterCard,Bank of Montreal,115
+4-Jun-18,SN-18487,Housewares,Visa,Seattle FirstBank,164
+5-Jun-18,SN-18488,Ladies,Visa,CitiBank,78
+6-Jun-18,SN-18489,Furniture,Visa,Toronto Dominion Bank,146
+7-Jun-18,SN-18490,Linens,Amex,American Express,145
+9-Jun-18,SN-18491,Men,Visa,Seattle FirstBank,192
+9-Jun-18,SN-18492,Toys,Visa,Santandar,57
+9-Jun-18,SN-18493,Food,MasterCard,Bank of Montreal,44
+10-Jun-18,SN-18494,Men,Amex,American Express,168
+10-Jun-18,SN-18495,Ladies,Visa,Lloyds Banking Group,71
+10-Jun-18,SN-18496,Housewares,Visa,Toronto Dominion Bank,33
+10-Jun-18,SN-18497,Linens,Visa,Chase Manhattan,123
+10-Jun-18,SN-18498,Food,Visa,Santandar,56
+10-Jun-18,SN-18499,Ladies,MasterCard,Bank of Montreal,23
+10-Jun-18,SN-18500,Ladies,Visa,CitiBank,141
+11-Jun-18,SN-18501,Toys,Visa,ScotiaBank,14
+11-Jun-18,SN-18502,Ladies,Visa,Bank of America,173
+11-Jun-18,SN-18503,Hardware,Debit,Bank of Montreal,8
+11-Jun-18,SN-18504,Ladies,MasterCard,Wells Fargo,33
+12-Jun-18,SN-18505,Hardware,Visa,CapitalOne,140
+12-Jun-18,SN-18506,Furniture,Visa,ScotiaBank,179
+12-Jun-18,SN-18507,Food,Visa,ScotiaBank,140
+12-Jun-18,SN-18508,Linens,Visa,Bank of America,120
+12-Jun-18,SN-18509,Linens,Visa,Santandar,18
+13-Jun-18,SN-18510,Linens,Visa,Chase Manhattan,57
+13-Jun-18,SN-18511,Ladies,Visa,Santandar of Scotland ,75
+14-Jun-18,SN-18512,Food,Visa,CitiBank,150
+14-Jun-18,SN-18513,Hardware,MasterCard,Wells Fargo,82
+14-Jun-18,SN-18514,Linens,Visa,CapitalOne,29
+14-Jun-18,SN-18515,Appliances,Visa,CapitalOne,168
+15-Jun-18,SN-18516,Furniture,Visa,Seattle FirstBank,105
+15-Jun-18,SN-18517,Food,Visa,Chase Manhattan,200
+17-Jun-18,SN-18518,Toys,Visa,Bank of America,13
+17-Jun-18,SN-18519,Men,Visa,ScotiaBank,63
+18-Jun-18,SN-18520,Ladies,Visa,ScotiaBank,26
+18-Jun-18,SN-18521,Housewares,Visa,Santandar,44
+18-Jun-18,SN-18522,Toys,MasterCard,Wells Fargo,125
+19-Jun-18,SN-18523,Ladies,Visa,ScotiaBank,190
+19-Jun-18,SN-18524,Housewares,Visa,CapitalOne,102
+20-Jun-18,SN-18525,Ladies,Visa,Lloyds Banking Group,196
+20-Jun-18,SN-18526,Linens,Amex,American Express,125
+21-Jun-18,SN-18527,Furniture,MasterCard,Bank of Montreal,23
+21-Jun-18,SN-18528,Appliances,Visa,Seattle FirstBank,95
+21-Jun-18,SN-18529,Furniture,Amex,American Express,180
+22-Jun-18,SN-18530,Ladies,Visa,Santandar of Scotland ,114
+23-Jun-18,SN-18531,Food,Visa,Toronto Dominion Bank,30
+24-Jun-18,SN-18532,Hardware,Visa,CapitalOne,99
+24-Jun-18,SN-18533,Ladies,Visa,Chase Manhattan,56
+24-Jun-18,SN-18534,Toys,Visa,CapitalOne,133
+25-Jun-18,SN-18535,Food,Visa,CitiBank,37
+25-Jun-18,SN-18536,Ladies,Visa,VanCity Credit Union,50
+26-Jun-18,SN-18537,Appliances,Visa,Bank of America,98
+26-Jun-18,SN-18538,Linens,Visa,ScotiaBank,21
+26-Jun-18,SN-18539,Food,Amex,American Express,182
+26-Jun-18,SN-18540,Ladies,Visa,Santandar,42
+26-Jun-18,SN-18541,Housewares,Visa,CitiBank,189
+26-Jun-18,SN-18542,Housewares,Debit,Bank of Montreal,15
+27-Jun-18,SN-18543,Men,MasterCard,Wells Fargo,54
+27-Jun-18,SN-18544,Appliances,MasterCard,Bank of Montreal,63
+27-Jun-18,SN-18545,Furniture,MasterCard,Bank of Montreal,31
+28-Jun-18,SN-18546,Food,Visa,ScotiaBank,20
+29-Jun-18,SN-18547,Appliances,Visa,Santandar,80
+29-Jun-18,SN-18548,Furniture,Visa,Bank of America,29
+,,,,,
+,,,,,
+,,,,,
